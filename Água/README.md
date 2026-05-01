@@ -1,4 +1,4 @@
-# Controlador de Nível de Água com Câmera
+# Controlador de Nível de Água por Câmera
 
 Um sistema de detecção de nível de água em tempo real usando visão computacional.
 
